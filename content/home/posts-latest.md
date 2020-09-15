@@ -70,7 +70,7 @@ subtitle = ""
   padding = ["1.9rem", "0", "1.9rem", "0"]  
 +++
 
-![Brian James Dalton](https:hipgt33.github.io/dalton.jpg)
+![Brian James Dalton](https:hipgt33.github.io/static/dalton.jpg)
 
 
 This is where the front text for Dalton's Guide will be added.
