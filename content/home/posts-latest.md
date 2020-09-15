@@ -73,7 +73,6 @@ subtitle = ""
 ![Brian James Dalton](https:hipgt33.github.io/dalton.jpg)
 
 
-
 This is where the front text for Dalton's Guide will be added.
 
 ## Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
