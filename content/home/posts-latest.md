@@ -72,7 +72,6 @@ subtitle = ""
 
 ![Brian James Dalton](https:hipgt33.github.io/dalton.jpg)
 
-![stack Overflow](http://lmsotfy.com/so.png)
 
 
 This is where the front text for Dalton's Guide will be added.
