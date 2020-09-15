@@ -69,3 +69,6 @@ subtitle = ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["1.9rem", "0", "1.9rem", "0"]  
 +++
+![Brian James Dalton](/dalton.jpg)
+
+This is where the front text for Dalton's Guide will be added.
