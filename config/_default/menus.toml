@@ -11,4 +11,24 @@
 [[main]]
   name = "About"
   url = "about/"
-  weight = 20
+  weight = 11
+
+  [[main]]
+  name = "Persons"
+  url = "persons/"
+  weight = 12
+
+  [[main]]
+  name = "Places"
+  url = "places/"
+  weight = 13
+
+  [[main]]
+  name = "Parties"
+  url = "parties/"
+  weight = 14
+
+  [[main]]
+  name = "Events"
+  url = "events/"
+  weight = 15
