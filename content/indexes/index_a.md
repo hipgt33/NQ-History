@@ -87,7 +87,7 @@ layout = "html"
             
 [Australia, Carrviccai (?)](/S01.md#A00000016)
             
-[Australia, Central Australia](/S01.md#A00000016) see also [/S01.md#A00000017](/S01.md#A00000017),[/S01.md#A000000180](/S01.md#A000000180), [S01.md#A000000180](/S01.md#A000000180),[/S01.md#P00000818](/S01.md#P00000818)
+[Australia, Central Australia](/S01.md#A00000016) see also references [/S01.md#A00000017](/S01.md#A00000017) , [/S01.md#A000000180](/S01.md#A000000180), [S01.md#A000000180](/S01.md#A000000180) , [/S01.md#P00000818](/S01.md#P00000818)
             
 [Australia, Central Australia, Mount Hopelen](/S01.md#P00000182)
             
