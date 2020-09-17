@@ -28,7 +28,7 @@ layout = "html"
             
 [Australia, Ayr](/S01.md#A00000257)
             
-[Australia, Baan Hill Soak](/S01.md#A00000242, see also [/S01.md#A00000422](/S01.md#A00000422)
+[Australia, Baan Hill Soak](/S01.md#A00000242), see also [/S01.md#A00000422](/S01.md#A00000422)
             
 [Australia, Baiong Tribe](/S01.md#P00000996)
             
