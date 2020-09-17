@@ -32,3 +32,8 @@
   name = "Events"
   url = "events/"
   weight = 15
+
+  [[main]]
+  name = "Indexes"
+  url = "indexes/"
+  weight = 15
