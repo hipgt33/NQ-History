@@ -42,7 +42,8 @@ layout = "html"
             
 [Australia, Barum](/S01.md#A00000276)
             
-[Australia, Bass Strait, Gobo Island](/S01.md#A00000015(/S01.md#P00001012)
+[Australia, Bass Strait, Gobo Island](/S01.md#A00000015)[se also](/S01.md#P00001012)
+
             
 [Australia, Berida](/S01.md#P00000996)
             
