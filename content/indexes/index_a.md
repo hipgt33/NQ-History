@@ -8,7 +8,7 @@ layout = "html"
 
 ## A
             
-[Australia](/S01.md#A00000002)[see also: /S01.md#P00002868](/S01.md#P00002868)
+[Australia](/S01.md#A00000002), see also [/S01.md#P00002868](/S01.md#P00002868)
             
 [Australia, Agarven, North Torres Bay](/S01.md#A00000201)
             
@@ -28,7 +28,7 @@ layout = "html"
             
 [Australia, Ayr](/S01.md#A00000257)
             
-[Australia, Baan Hill Soak](/S01.md#A00000242)[see also:](/S01.md#A00000422)
+[Australia, Baan Hill Soak](/S01.md#A00000242, see also [/S01.md#A00000422](/S01.md#A00000422)
             
 [Australia, Baiong Tribe](/S01.md#P00000996)
             
@@ -42,7 +42,7 @@ layout = "html"
             
 [Australia, Barum](/S01.md#A00000276)
             
-[Australia, Bass Strait, Gobo Island](/S01.md#A00000015)[se also](/S01.md#P00001012)
+[Australia, Bass Strait, Gobo Island](/S01.md#A00000015),[see also /S01.md#P00001012](/S01.md#P00001012)
 
             
 [Australia, Berida](/S01.md#P00000996)
@@ -87,7 +87,7 @@ layout = "html"
             
 [Australia, Carrviccai (?)](/S01.md#A00000016)
             
-[Australia, Central Australia](/S01.md#A00000016) [see also /S01.md#A00000017](/S01.md#A00000017)[, /S01.md#A000000180](/S01.md#A000000180) [,S01.md#A000000180](/S01.md#A000000180)[,/S01.md#P00000818](/S01.md#P00000818)
+[Australia, Central Australia](/S01.md#A00000016) see also [/S01.md#A00000017](/S01.md#A00000017),[/S01.md#A000000180](/S01.md#A000000180), [S01.md#A000000180](/S01.md#A000000180),[/S01.md#P00000818](/S01.md#P00000818)
             
 [Australia, Central Australia, Mount Hopelen](/S01.md#P00000182)
             
