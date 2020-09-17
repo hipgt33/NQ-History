@@ -8,7 +8,7 @@ layout = "html"
 
 ## A
             
-[Australia](/S01.md#A00000002)(/S01.md#P00002868)
+[Australia](/S01.md#A00000002)[see also: /S01.md#P00002868](/S01.md#P00002868)
             
 [Australia, Agarven, North Torres Bay](/S01.md#A00000201)
             
@@ -28,7 +28,7 @@ layout = "html"
             
 [Australia, Ayr](/S01.md#A00000257)
             
-[Australia, Baan Hill Soak](/S01.md#A00000242)(/S01.md#A00000422)
+[Australia, Baan Hill Soak](/S01.md#A00000242)[see also:](/S01.md#A00000422)
             
 [Australia, Baiong Tribe](/S01.md#P00000996)
             
@@ -86,7 +86,7 @@ layout = "html"
             
 [Australia, Carrviccai (?)](/S01.md#A00000016)
             
-[Australia, Central Australia](/S01.md#A00000016) (/S01.md#A00000017) (/S01.md#A00000018(/S01.md#P00000818)
+[Australia, Central Australia](/S01.md#A00000016) [see also /S01.md#A00000017](/S01.md#A00000017)[, /S01.md#A000000180](/S01.md#A000000180) [,S01.md#A000000180](/S01.md#A000000180)[,/S01.md#P00000818](/S01.md#P00000818)
             
 [Australia, Central Australia, Mount Hopelen](/S01.md#P00000182)
             
@@ -96,7 +96,7 @@ layout = "html"
             
 [Australia, Coberty Creek, Wondai](/S01.md#A00000257)
             
-[Australia, Cow Pasture Tribe](/S01.md#A00000418(/S01.md#A00000442)(/S01.md#A000442)
+[Australia, Cow Pasture Tribe](/S01.md#A00000418)[,/S01.md#A00000442](/S01.md#A00000442)[, /S01.md#A00000442](/S01.md#A000442)
             
 [Australia, Cowan Creek](/S01.md#A00000002)(/S01.md#A000002)
             
@@ -262,7 +262,7 @@ layout = "html"
             
 [Australia, Nuggaline District](/S01.md#P00000399)
             
-[Australia, Nullabor Plain](/S01.md#A00000036(/S01.md#A00000473)(/S01.md#A000473)
+[Australia, Nullabor Plain](/S01.md#A00000036)[also:](/S01.md#A00000473)[and](/S01.md#A000473)
             
 [Australia, Orbost](/S01.md#P00000588)
             
