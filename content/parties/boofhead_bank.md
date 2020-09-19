@@ -1,7 +1,7 @@
 +++
 title = "Boofhead"
 date = "2020-09-01T12:15:02-00:00"
-categories = ["persons"]
+categories = ["parties"]
 tags = [""]
 layout = "html"
 +++
